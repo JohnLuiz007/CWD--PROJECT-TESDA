@@ -1,0 +1,37 @@
+.nav-wrapper{
+    background-color:rgb(97, 6, 183);
+}
+
+#pics.carousel.carousel-slider{
+    height: 10px;
+    
+}
+
+.card-content{
+    font-family: Impact, H;
+    background-color:rgb(97, 6, 183);
+    color: white
+}
+.carousel-item{
+    color: black;
+}
+
+body{
+    background-color: black;
+}
+
+h2{
+    color: white;
+}
+
+section{
+    background-color: blueviolet;
+}
+
+footer{
+    background-color: blueviolet;
+}
+
+.box{
+    background-color: blueviolet;
+}
